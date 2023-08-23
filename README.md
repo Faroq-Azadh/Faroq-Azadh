@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Faroq</h1>
 <h3 align="center">I'm a Frontend developer and a programmer and student of University of Kurdistan</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=faroq-azadh" alt="faroq-azadh" /></a> </p>
-
 - 🌱 I’m currently learning **Javascript and react**
 
 - 📫 How to reach me **faroghazadeh2019@gmail.com**
