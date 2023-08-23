@@ -18,3 +18,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=faroq-azadh&show_icons=true&locale=en" alt="faroq-azadh" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=faroq-azadh&" alt="faroq-azadh" /></p>
+
+<img align="left" alt="Coding" src="https://raw.githubusercontent.com/rafaballerini/rafaballerini/26d25a7dc705c50943f66aef6beb431253a93cd5/github-contribution-grid-snake.svg" style="max-width: 100%;">
