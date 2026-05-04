@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Faroq</h1>
-<h3 align="center">I'm a Frontend developer and a programmer and student of University of Kurdistan</h3>
-
-- 🌱 I’m currently learning **Javascript and react**
+<h3 align="center">Frontend developer and student of University of Kurdistan</h3>
 
 - 📫 How to reach me **faroghazadeh2019@gmail.com**
 
