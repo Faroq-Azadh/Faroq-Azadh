@@ -113,7 +113,7 @@ Bachelor of Computer Engineering *(Since 2021)*
 ## 📫 Connect with Me
 
 * 💼 LinkedIn: https://www.linkedin.com/in/faroq-azadah
-* 📧 Email: *(Add your email here)*
+* 📧 Email: faroghazadeh2019@gmail.com
 * 🌍 Location: Sanandaj, Kurdistan, Iran
 
 ---
