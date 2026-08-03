@@ -55,26 +55,6 @@
 
 ---
 
-## 🌟 What I Focus On
-
-* Responsive Web Design
-* Modern React & Next.js Applications
-* Clean and Maintainable Code
-* Component-Based Architecture
-* Performance Optimization
-* User Experience (UX)
-
----
-
-## 📈 Currently Learning
-
-* Advanced Next.js
-* Software Architecture
-* Performance Optimization
-* Modern Front-End Patterns
-
----
-
 ## 📫 Connect with Me
 
 * 💼 LinkedIn: https://www.linkedin.com/in/faroq-azadah
