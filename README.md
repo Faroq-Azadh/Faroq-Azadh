@@ -22,6 +22,7 @@
 * CSS3
 * JavaScript (ES6+)
 * TypeScript
+* PHP
 
 ### Frameworks & Libraries
 
